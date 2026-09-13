@@ -1,2 +1,2 @@
 # Gold_Socho
-Simple Web Page
+Simple Gold Calculator using HTML, CSS and Javascript
